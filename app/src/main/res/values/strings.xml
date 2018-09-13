@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Docu Scanner</string>
+
+    <string name="title_activity_document_scanner">Docu Scanner</string>
+
+    <string name="error_dsa">Error starting MainScannerActivity!</string>
+
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+</resources>
